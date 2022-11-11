@@ -1,0 +1,16 @@
+body {
+  font-family: 'Comfortaa', cursive;
+}
+.pwd {
+  border: 0;
+  outline: 0;
+  font-size: 3rem;  
+  font-family: 'Titan One', cursive;
+}
+
+.txtStyle{
+  font-size: 1.3rem;
+}
+.icon{
+  cursor: pointer;
+}
